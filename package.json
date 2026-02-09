@@ -1,0 +1,21 @@
+{
+  "name": "dusk-theme",
+  "displayName": "dusk-theme",
+  "description": "Personal dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dusk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dusk.json"
+      }
+    ]
+  }
+}
