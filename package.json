@@ -1,18 +1,36 @@
 {
   "name": "dusk-theme",
-  "displayName": "dusk-theme",
-  "description": "Personal dark theme.",
-  "version": "0.0.1",
+  "displayName": "Dusk Theme",
+  "description": "A minimal, high-contrast dark theme designed for long coding sessions.",
+  "version": "0.1.0",
+  "publisher": "noel",
+  "author": {
+    "name": "Noel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FIEF-nohell/dusk-theme"
+  },
+  "homepage": "https://github.com/FIEF-nohell/dusk-theme",
+  "bugs": {
+    "url": "https://github.com/FIEF-nohell/dusk-theme/issues"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
-  "categories": [
-    "Themes"
+  "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vscode theme",
+    "minimal",
+    "high contrast",
+    "purple"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Dusk Theme",
+        "label": "Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/dusk.json"
       }
