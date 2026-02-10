@@ -1765,7 +1765,8 @@
     "sideBarSectionHeader.foreground": "#ffffff",
     "sideBarSectionHeader.border": "#13131300",
     "sideBarTitle.foreground": "#ffffff",
-    "sideBar.border": "#13131300",
+    "sideBar.border": "#202020",
+    "sash.hoverBorder": "#5A2A803D",
     "list.inactiveSelectionBackground": "#7A4BAF1A",
     "list.inactiveSelectionForeground": "#e6e6e6",
     "list.hoverBackground": "#7A4BAF1A",
@@ -1796,9 +1797,7 @@
     "titleBar.activeForeground": "#e6e6e6",
     "titleBar.inactiveBackground": "#131313",
     "titleBar.inactiveForeground": "#cccccc",
-
     "titleBar.border": "#00000000",
-	
     "menubar.selectionForeground": "#ffffff",
     "menubar.selectionBackground": "#ffffff14",
     "menubar.selectionBorder": "#ffffff00",
@@ -1806,9 +1805,7 @@
     "menu.background": "#131313",
     "menu.selectionForeground": "#ffffff",
     "menu.selectionBackground": "#5A2A803D",
-
     "menu.selectionBorder": "#00000000",
-
     "menu.separatorBackground": "#ffffff10",
     "menu.border": "#5A2A80",
     "button.background": "#6F3FA7",
@@ -1882,7 +1879,7 @@
     "diffEditor.removedTextBorder": "#00000000",
     "diffEditor.border": "#00000000",
     "panel.background": "#131313",
-    "panel.border": "#00000000",
+    "panel.border": "#202020",
     "panelTitle.activeBorder": "#4A3168",
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.inactiveForeground": "#757575",
